@@ -79,9 +79,9 @@
 
 ### 🤖 [Agentic Research Assistant](https://github.com/kforkandarp/agentic-research-assistant)
 
-- Agentic research system built with **LangGraph**, featuring cyclic tool routing, autonomous evidence evaluation, asymmetric LLaMA model tiering, and reliability guardrails.
+- Agentic research system built with **LangGraph**, featuring cyclic tool routing, autonomous evidence evaluation, asymmetric GPT-OSS model tiering, and reliability guardrails.
 
-- **Stack:** Python • LangGraph • LLaMA • RAGAS • FastAPI • Docker • Groq
+- **Stack:** Python • LangGraph • GPT-OSS • RAGAS • FastAPI • Docker • Groq
 
 ---
 
