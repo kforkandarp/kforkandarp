@@ -39,13 +39,13 @@
 
 ## 🎯 Focus Areas
 
-**🤖 AI Agents** · LangGraph workflows · Tool routing · Evaluation loops
+**🤖 Agentic Systems** · LangGraph workflows · Tool orchestration · Reliable agent execution
 
-**🔎 RAG & Retrieval** · Hybrid search · Reranking · Citation grounding
+**🔎 Retrieval & Grounding** · Hybrid search · Reranking · Citation grounding · Context quality
 
-**🧪 LLM Evaluation** · RAGAS · Benchmarking · Context quality
+**🧪 AI Evaluation** · RAGAS · Benchmarking · Failure analysis · Model evaluation
 
-**⚙️ AI Engineering** · FastAPI · Docker · Observability · Reliable inference
+**🛡️ AI Security & Reliability** · Prompt-injection defense · Authorization boundaries · Guardrails · Observability
 
 ---
 
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/LangChain-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangGraph-0B7285?style=flat-square"/>
 <img src="https://img.shields.io/badge/FAISS-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLaMA-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/deBERTa-purple?style=flat-square"/>
 <img src="https://img.shields.io/badge/RAGAS-yellow?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangSmith-0B7285?style=flat-square"/>
 </p>
@@ -93,11 +93,11 @@
 
 ---
 
-### 🕵️ SachAI — Deepfake Detection
+### 🛡️ [Sentinel — AI Security Gateway for Agentic Commerce](https://github.com/kforkandarp/sentinel)
 
-- Research-driven deepfake detection system using a **ResNeXt-50 + LSTM** pipeline trained on 5,000+ videos, achieving **97% accuracy** with a Flask inference API.
+- AI security gateway that separates **prompt-injection detection from deterministic authorization**, using provenance-aware inspection, action fingerprinting, scope-bound spending policies, execution controls, and audit logging.
 
-- **Stack:** PyTorch • OpenCV • ResNeXt-50 • LSTM • Flask
+- **Stack:** Python • FastAPI • Pydantic • DeBERTa-v3 • Streamlit • Docker
 
 ---
 
