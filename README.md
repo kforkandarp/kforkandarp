@@ -2,7 +2,7 @@
 
 <a id="top"></a>
 
-<img src="./assets/hero.gif" width="100%" alt="Kandarp Srivastava animated engineering network" />
+<img src="./assets/hero.gif" width="100%" alt="Animated Kandarp Srivastava engineering network" />
 
 <br>
 
@@ -16,9 +16,9 @@
 
 <br><br>
 
-<a href="#ai-engineering"><img src="./assets/ai.gif" width="31%" alt="AI Systems" /></a>
-<a href="#data-engineering"><img src="./assets/data.gif" width="31%" alt="Data Systems" /></a>
-<a href="#backend-engineering"><img src="./assets/backend.gif" width="31%" alt="Backend" /></a>
+<a href="#ai-engineering"><img src="./assets/ai.gif" width="31%" alt="AI Systems — jump to AI Engineering" /></a>
+<a href="#data-engineering"><img src="./assets/data.gif" width="31%" alt="Data Systems — jump to Data Engineering" /></a>
+<a href="#backend-engineering"><img src="./assets/backend.gif" width="31%" alt="Backend — jump to Backend Engineering" /></a>
 
 </div>
 
@@ -26,73 +26,47 @@
 
 <div align="center">
 
-## I'M CERTIFIED
+# I'M CERTIFIED
 
-<a href="#certifications"><img src="./assets/cert-ai.svg" width="31%" /></a>
-<a href="#certifications"><img src="./assets/cert-cloud.svg" width="31%" /></a>
-<a href="#certifications"><img src="./assets/cert-quest.svg" width="31%" /></a>
+<table>
+<tr>
+<td align="center" width="33%"><b>AWS Certified<br>AI Practitioner</b></td>
+<td align="center" width="33%"><b>AWS Certified<br>Cloud Practitioner</b></td>
+<td align="center" width="33%"><b>AWS Cloud Quest</b></td>
+</tr>
+</table>
 
 </div>
-
-<a id="certifications"></a>
-
-- **AWS Certified AI Practitioner**
-- **AWS Certified Cloud Practitioner**
-- **AWS Cloud Quest**
 
 ---
 
 <div align="center">
 
-## I HAVE A PUBLISHED PAPER
+# I HAVE A PUBLISHED PAPER
 
 ### [SachAI — Hybrid Deep Learning for Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/11608562)
 
-*IEEE ICITSIF 2026 · 93.5% F1*
-
 </div>
 
 ---
-
-<div align="center">
-<img src="./assets/systems.gif" width="90%" alt="Animated engineering system divider" />
-</div>
 
 <a id="ai-engineering"></a>
 
 # 🤖 AI ENGINEERING
 
-> Building agents and grounded LLM systems with retrieval, evaluation, guardrails and security.
+> Agents · Retrieval · Evaluation · Security
 
-### Agentic Research Assistant
+<a href="https://github.com/kforkandarp/agentic-research-assistant"><img src="./assets/p-agentic.svg" width="100%" alt="Agentic Research Assistant project card" /></a>
 
-A cyclic LangGraph research agent that routes queries across retrieval, web search, calculation and direct answering, then evaluates its own result.
+<br>
 
-**94% routing accuracy** · **0.9091 context precision** · **5,500+ chunks**
+<a href="https://github.com/kforkandarp/finsight-rag"><img src="./assets/p-finsight.svg" width="100%" alt="FinSight RAG project card" /></a>
 
-`LangGraph` `GPT-OSS` `FAISS` `BM25` `Cross-Encoder` `RAGAS` `FastAPI` `Docker`
+<br>
 
-→ [Repository](https://github.com/kforkandarp/agentic-research-assistant)
+<a href="https://github.com/kforkandarp/sentinel"><img src="./assets/p-sentinel.svg" width="100%" alt="Sentinel project card" /></a>
 
-### FinSight RAG
-
-Financial document intelligence over Infosys annual reports using hybrid retrieval, reranking, citation enforcement and grounded refusal.
-
-**0.8618 context precision** · **0.7020 faithfulness**
-
-`LangChain` `FAISS` `BM25` `Cross-Encoder` `RAGAS` `FastAPI` `Docker`
-
-→ [Repository](https://github.com/kforkandarp/finsight-rag)
-
-### Sentinel
-
-AI security gateway for agentic commerce with detection, provenance, policy enforcement, execution controls and audit logging.
-
-**88.66% precision** · **81.25% accuracy** · **71.67% recall**
-
-`FastAPI` `Pydantic` `DeBERTa-v3` `Streamlit` `Docker`
-
-→ [Repository](https://github.com/kforkandarp/sentinel)
+<br>
 
 **AI TOOLBOX**
 
@@ -104,31 +78,19 @@ AI security gateway for agentic commerce with detection, provenance, policy enfo
 
 # ◈ DATA ENGINEERING
 
-> Building pipelines that move from raw data to reliable analytical systems.
+> Lakehouse · ETL · SQL · Analytics
 
-### Restaurant Analytics — Databricks
+<a href="https://github.com/kforkandarp/restaurant-analytics-databricks"><img src="./assets/p-databricks.svg" width="100%" alt="Restaurant Analytics Databricks project card" /></a>
 
-End-to-end medallion lakehouse with incremental ingestion, AUTO CDC, SCD1/SCD2, LLM review enrichment, quality expectations, gold models, dashboards and workflow orchestration.
+<br>
 
-`Databricks` `PySpark` `Delta Lake` `Auto Loader` `CDC` `SCD2` `SQL` `Python` `Groq`
+<a href="https://github.com/kforkandarp/sql-data-warehouse-project"><img src="./assets/p-sql.svg" width="100%" alt="SQL Data Warehouse project card" /></a>
 
-→ [Repository](https://github.com/kforkandarp/restaurant-analytics-databricks)
+<br>
 
-### SQL Data Warehouse
+<a href="https://github.com/kforkandarp/financial-data-pipeline"><img src="./assets/p-reliance.svg" width="100%" alt="Reliance Financial Data Pipeline project card" /></a>
 
-End-to-end T-SQL warehouse transforming CRM + ERP sources into a reconciled star schema with rerunnable ETL and validation.
-
-**11 data-quality checks** · **CRM/ERP reconciliation** · **Bronze → Silver → Gold**
-
-`SQL Server` `T-SQL` `ETL` `Stored Procedures` `Star Schema`
-
-→ [Repository](https://github.com/kforkandarp/sql-data-warehouse-project)
-
-### Reliance Analytics
-
-*Project slot reserved for the Reliance Analytics work.*
-
-> Add the verified repository/details here once the project information is available.
+<br>
 
 **DATA TOOLBOX**
 
@@ -140,32 +102,24 @@ End-to-end T-SQL warehouse transforming CRM + ERP sources into a reconciled star
 
 # ⚙ BACKEND ENGINEERING
 
-> APIs, service layers and the foundations underneath larger systems.
+> APIs · Services · Go · Infrastructure
 
-### Redis Clone — Go
+<a href="#"><img src="./assets/p-redis.svg" width="100%" alt="Redis Clone coming soon project card" /></a>
 
-🚧 **COMING SOON**
+<br>
 
-A from-scratch Redis-inspired server in Go.
+<a href="https://github.com/kforkandarp/agentic-research-assistant"><img src="./assets/p-research.svg" width="100%" alt="Research Systems backend project card" /></a>
 
-`Go` · `TCP` · `Networking` · `Concurrency` · `In-Memory Storage`
+<br>
 
-### Research / Systems
+**BACKEND TOOLBOX**
 
-Backend engineering demonstrated through the service layers behind the research and AI systems above.
-
-`FastAPI` · `Pydantic` · `REST APIs` · `Docker` · `Structured Outputs` · `Error Handling`
-
-→ [Agentic Research Assistant](https://github.com/kforkandarp/agentic-research-assistant) · [FinSight RAG](https://github.com/kforkandarp/finsight-rag) · [Sentinel](https://github.com/kforkandarp/sentinel)
+`Python` · `FastAPI` · `Pydantic` · `REST APIs` · `Docker` · `Linux` · `Go (WIP)`
 
 ---
 
 <div align="center">
 
-<img src="./assets/systems.gif" width="90%" alt="Animated systems network" />
-
-<br><br>
-
-**BUILD · MEASURE · LEARN · REPEAT**
+<a href="#top">↑ back to top</a>
 
 </div>
