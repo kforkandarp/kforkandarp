@@ -1,125 +1,120 @@
 <div align="center">
 
-<a id="top"></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:38bdf8&text=Kandarp%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20LLM%20Systems&descAlignY=58"/>
 
-<img src="./assets/hero.gif" width="100%" alt="Animated Kandarp Srivastava engineering network" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+reliable+AI+systems;Engineering+agents%2C+RAG%2C+and+LLM+pipelines;RAG+%7C+Agents+%7C+Evaluation+%7C+AI+Engineering" />
 
 <br>
 
-<a href="mailto:kandarpsri@gmail.com"><img src="https://img.shields.io/badge/kandarpsri%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kandarp-srivastava-227345159/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="https://leetcode.com/u/KtheKandarp/"><img src="https://img.shields.io/badge/kthekandarp-111827?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/kforkandarp"><img src="https://img.shields.io/badge/kforkandarp-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:kandarpsri@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/kandarp-srivastava-227345159/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="#ai-engineering"><img src="./assets/ai.gif" width="31%" alt="AI Systems — jump to AI Engineering" /></a>
-<a href="#data-engineering"><img src="./assets/data.gif" width="31%" alt="Data Systems — jump to Data Engineering" /></a>
-<a href="#backend-engineering"><img src="./assets/backend.gif" width="31%" alt="Backend — jump to Backend Engineering" /></a>
+<a href="https://github.com/kforkandarp">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/KtheKandarp/">
+<img src="https://img.shields.io/badge/LeetCode-337%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+## 🚀 About Me
+
+- 🎓 CSE Graduate (2026)
+- 🤖 Building **AI systems, agentic workflows, and LLM applications**
+- 🧠 Interested in **RAG, retrieval systems, LLM infrastructure, and AI engineering**
+- ⚙️ Focused on **LLM evaluation, backend APIs, observability, and reliable AI systems**
+- ☁️ AWS Certified AI Practitioner & Cloud Practitioner
+
+
+---
+
+## 🎯 Focus Areas
+
+**🤖 Agentic Systems** · LangGraph workflows · Tool orchestration · Reliable agent execution
+
+**🔎 Retrieval & Grounding** · Hybrid search · Reranking · Citation grounding · Context quality
+
+**🧪 AI Evaluation** · RAGAS · Benchmarking · Failure analysis · Model evaluation
+
+**🛡️ AI Security & Reliability** · Prompt-injection defense · Authorization boundaries · Guardrails · Observability
+
+---
+
+
+
+## 🛠 Tech Stack
+
 <div align="center">
 
-# I'M CERTIFIED
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql"/>
 
-<table>
-<tr>
-<td align="center" width="33%"><b>AWS Certified<br>AI Practitioner</b></td>
-<td align="center" width="33%"><b>AWS Certified<br>Cloud Practitioner</b></td>
-<td align="center" width="33%"><b>AWS Cloud Quest</b></td>
-</tr>
-</table>
+### Backend / Infra
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux,git,github,aws"/>
 
 </div>
 
+<p align="center">
+<img src="https://img.shields.io/badge/PyTorch-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-0B7285?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/deBERTa-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAGAS-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangSmith-0B7285?style=flat-square"/>
+</p>
+
 ---
+
+## 🔥 Featured Projects
+
+### 🤖 [Agentic Research Assistant](https://github.com/kforkandarp/agentic-research-assistant)
+
+- Agentic research system built with **LangGraph**, featuring cyclic tool routing, autonomous evidence evaluation, asymmetric GPT-OSS model tiering, and reliability guardrails.
+
+- **Stack:** Python • LangGraph • GPT-OSS • RAGAS • FastAPI • Docker • Groq
+
+---
+
+### 📊 [FinSight RAG](https://github.com/kforkandarp/finsight-rag)
+
+- Financial document intelligence system featuring **hybrid BM25 + FAISS retrieval**, Cross-Encoder reranking, citation-grounded responses, RAGAS evaluation, and LangSmith observability.
+
+- **Stack:** Python • LangChain • FAISS • BM25 • Cross-Encoder • FastAPI • Docker • LangSmith • RAGAS
+
+---
+
+### 🛡️ [Sentinel — AI Security Gateway for Agentic Commerce](https://github.com/kforkandarp/sentinel)
+
+- AI security gateway that separates **prompt-injection detection from deterministic authorization**, using provenance-aware inspection, action fingerprinting, scope-bound spending policies, execution controls, and audit logging.
+
+- **Stack:** Python • FastAPI • Pydantic • DeBERTa-v3 • Streamlit • Docker
+
+---
+
+## 🏆 Certifications
+
+- ☁️ AWS Certified AI Practitioner
+- ☁️ AWS Certified Cloud Practitioner
+- ☁️ AWS Cloud Quest: Solutions Architect
+
+---
+
+
 
 <div align="center">
 
-# I HAVE A PUBLISHED PAPER
+## Build • Break • Learn • Repeat
 
-### [SachAI — Hybrid Deep Learning for Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/11608562)
-
-</div>
-
----
-
-<a id="ai-engineering"></a>
-
-# 🤖 AI ENGINEERING
-
-> Agents · Retrieval · Evaluation · Security
-
-<a href="https://github.com/kforkandarp/agentic-research-assistant"><img src="./assets/p-agentic.svg" width="100%" alt="Agentic Research Assistant project card" /></a>
-
-<br>
-
-<a href="https://github.com/kforkandarp/finsight-rag"><img src="./assets/p-finsight.svg" width="100%" alt="FinSight RAG project card" /></a>
-
-<br>
-
-<a href="https://github.com/kforkandarp/sentinel"><img src="./assets/p-sentinel.svg" width="100%" alt="Sentinel project card" /></a>
-
-<br>
-
-**AI TOOLBOX**
-
-`PyTorch` · `Transformers` · `LangChain` · `LangGraph` · `FAISS` · `BM25` · `Cross-Encoder` · `RAGAS` · `LangSmith` · `Guardrails`
-
----
-
-<a id="data-engineering"></a>
-
-# ◈ DATA ENGINEERING
-
-> Lakehouse · ETL · SQL · Analytics
-
-<a href="https://github.com/kforkandarp/restaurant-analytics-databricks"><img src="./assets/p-databricks.svg" width="100%" alt="Restaurant Analytics Databricks project card" /></a>
-
-<br>
-
-<a href="https://github.com/kforkandarp/sql-data-warehouse-project"><img src="./assets/p-sql.svg" width="100%" alt="SQL Data Warehouse project card" /></a>
-
-<br>
-
-<a href="https://github.com/kforkandarp/financial-data-pipeline"><img src="./assets/p-reliance.svg" width="100%" alt="Reliance Financial Data Pipeline project card" /></a>
-
-<br>
-
-**DATA TOOLBOX**
-
-`PySpark` · `Databricks` · `Delta Lake` · `SQL` · `T-SQL` · `ETL` · `CDC` · `SCD1` · `SCD2`
-
----
-
-<a id="backend-engineering"></a>
-
-# ⚙ BACKEND ENGINEERING
-
-> APIs · Services · Go · Infrastructure
-
-<a href="#"><img src="./assets/p-redis.svg" width="100%" alt="Redis Clone coming soon project card" /></a>
-
-<br>
-
-<a href="https://github.com/kforkandarp/agentic-research-assistant"><img src="./assets/p-research.svg" width="100%" alt="Research Systems backend project card" /></a>
-
-<br>
-
-**BACKEND TOOLBOX**
-
-`Python` · `FastAPI` · `Pydantic` · `REST APIs` · `Docker` · `Linux` · `Go (WIP)`
-
----
-
-<div align="center">
-
-<a href="#top">↑ back to top</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:38bdf8"/>
 
 </div>
