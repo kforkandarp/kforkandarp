@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="190" viewBox="0 0 620 190">
-<rect x="2" y="2" width="616" height="186" rx="22" fill="#090f18" stroke="#1e2b3c" stroke-width="2"/>
-<circle cx="54" cy="58" r="22" fill="5ca9ff" opacity=".18"/><circle cx="54" cy="58" r="8" fill="5ca9ff"/>
-<text x="92" y="55" fill="#6f8198" font-family="Arial" font-size="14" letter-spacing="3">AWS</text>
-<text x="34" y="112" fill="#eef3f8" font-family="Arial" font-size="29" font-weight="700">AWS Certified AI Practitioner</text>
-<text x="34" y="150" fill="#8292a7" font-family="Arial" font-size="14">CERTIFIED</text>
-</svg>
